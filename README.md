@@ -107,3 +107,5 @@ jmeter.bat    # Windows
 - Tăng tài nguyên máy chủ (RAM, CPU).
 - Dùng Load Balancer để phân tán tải.
 - Dùng CDN để giảm tải trực tiếp lên server.
+
+### Link ChatGPT: https://chatgpt.com/share/67a85f66-2e60-800c-9ff0-4398fe527269
