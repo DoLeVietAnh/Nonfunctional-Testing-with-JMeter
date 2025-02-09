@@ -1,0 +1,3 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+Json Placeholder,427124,36,2,803,38.00,0.000%,1325.49645,1964.36,151.45,1517.5
+TOTAL,427124,36,2,803,38.00,0.000%,1325.49645,1964.36,151.45,1517.5
